@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://hazimehh.github.io/</link>
+      <atom:link href="http://hazimehh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>http://hazimehh.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title></title>
+      <link>http://hazimehh.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Award Citation</title>
+      <link>http://hazimehh.github.io/researcher-award/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://hazimehh.github.io/researcher-award/</guid>
+      <description>&lt;h2 id=&#34;citation-of-the-informs-optimization-society-young-researchers-prize&#34;&gt;Citation of the INFORMS Optimization Society Young Researchers Prize&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Hussein Hazimeh and Rahul Mazumder are awarded the 2020 INFORMS Optimization Society Prize for Young Researchers for their paper, &amp;ldquo;Fast Best Subset Selection: Coordinate Descent and Local Combinatorial Optimization Algorithms,&amp;rdquo; Operations Research, to appear. The paper presents a novel algorithm for the Best Subset Selection problem (BSS), which is ordinary least-squares linear regression but with a penalty (or constraint) on the number of non-zero coefficients in the model, which induces sparsity. BSS is a fundamental problem in high-dimensional statistics, where sparse solutions with good explanatory power are crucial for practical use. Yet, it is NP-hard and, therefore, has been labeled computationally intractable and replaced by popular formulations such as LASSO and ridge regression. The authors combine tools and techniques from high-dimensional statistics, continuous optimization, integer programming, and open-source software development to provide the community with a highly effective heuristic for BSS, one which has strong theoretical underpinnings, outperforms existing state-of-the-art codes in many cases, and is easy to generalize to other settings.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>http://hazimehh.github.io/awards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://hazimehh.github.io/awards/</guid>
+      <description>&lt;h2 id=&#34;selected-awards&#34;&gt;Selected Awards&lt;/h2&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-fas fa-award  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;strong&gt;Best Student Paper Award &amp;ndash; SIGKDD (2022)&lt;/strong&gt;. 
+&lt;a href=&#34;https://kdd.org/awards/view/2022-sigkdd-best-paper-award-winners&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;br&gt;
+    Received as an advisor to the student first author.&lt;br&gt;
+    Paper: &lt;em&gt;Flexible Modeling and Multitask Learning using Differentiable Tree Ensembles&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-fas fa-award  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;strong&gt;Young Researchers Prize &amp;ndash; INFORMS Optimization Society (2020)&lt;/strong&gt;. 
+&lt;a href=&#34;researcher-award&#34;&gt;Citation&lt;/a&gt;. 
+&lt;a href=&#34;https://connect.informs.org/optimizationsociety/prizes/young-researchers-prize&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;br&gt;
+     Received &lt;em&gt;&amp;ldquo;for an outstanding paper in optimization&amp;rdquo;&lt;/em&gt;.&lt;br&gt;
+    Paper: &lt;em&gt;Fast Best Subset Selection: Coordinate Descent and Local Combinatorial Optimization Algorithms&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-fas fa-award  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;strong&gt;Best Paper Award &amp;ndash; MIT Operations Research Center (2020)&lt;/strong&gt;.&lt;br&gt;
+    Paper: &lt;em&gt;Sparse Regression at Scale: Branch-and-Bound rooted in First-Order Optimization&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-fas fa-award  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;strong&gt;Honorable Mention &amp;ndash; INFORMS Computing Society (2020)&lt;/strong&gt;. 
+&lt;a href=&#34;https://connect.informs.org/computing/awards/ics-student-paper-award&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-fas fa-award  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;strong&gt;Honorable Mention &amp;ndash; Mixed Integer Programming Workshop (2019)&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://hazimehh.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://hazimehh.github.io/publications/</guid>
+      <description>&lt;h2 id=&#34;selected-publications&#34;&gt;Selected Publications&lt;/h2&gt;
+&lt;p&gt;** This page is outdated. Please see my 
+&lt;a href=&#34;https://scholar.google.com/citations?user=zPgtqfEAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google scholar&lt;/a&gt; page for a full list including recent work.**&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grouped Variable Selection using Discrete Optimization&lt;/strong&gt;.
+&lt;a href=&#34;https://arxiv.org/abs/2104.07084&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;br&gt;
+    Hussein Hazimeh, Rahul Mazumder, and Peter Radchenko. Annals of Statistics (2023+).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sparse Regression at Scale: Branch-and-Bound rooted in First-Order Optimization&lt;/strong&gt;. 
+&lt;a href=&#34;https://arxiv.org/abs/2004.06152&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;. 
+&lt;a href=&#34;https://github.com/alisaab/l0bnb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;.&lt;br&gt;
+    Hussein Hazimeh, Rahul Mazumder, and Ali Saab. Mathematical Programming (2022).&lt;br&gt;
+    
+  &lt;i class=&#34;fas fa-fas fa-award  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Best Student Paper Award, MIT ORC.&lt;br&gt;
+    
+  &lt;i class=&#34;fas fa-fas fa-award  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Honorable Mention, INFORMS Computing Society.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fast Best Subset Selection: Coordinate Descent and Local Combinatorial Optimization Algorithms&lt;/strong&gt;. 
+&lt;a href=&#34;https://pubsonline.informs.org/doi/10.1287/opre.2019.1919&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;. 
+&lt;a href=&#34;https://github.com/hazimehh/L0Learn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;.&lt;br&gt;
+    Hussein Hazimeh and Rahul Mazumder. Operations Research (2020).&lt;br&gt;
+    
+  &lt;i class=&#34;fas fa-fas fa-award  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Young Researchers Prize (for an Outstanding Paper in Optimization), INFORMS Optimization Society.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Learning Sparse Classifiers: Continuous and Mixed Integer Optimization Perspectives&lt;/strong&gt;. 
+&lt;a href=&#34;https://arxiv.org/abs/2001.06471&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;. 
+&lt;a href=&#34;https://github.com/hazimehh/L0Learn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;.&lt;br&gt;
+    Antoine Dedieu, Hussein Hazimeh, and Rahul Mazumder. JMLR (2021, to appear)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Tree Ensemble Layer: Differentiability meets Conditional Computation&lt;/strong&gt;. 
+&lt;a href=&#34;https://proceedings.icml.cc/static/paper_files/icml/2020/2974-Paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;. 
+&lt;a href=&#34;https://github.com/google-research/google-research/tree/master/tf_trees&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;.&lt;br&gt;
+    Hussein Hazimeh, Natalia Ponomareva, Petros Mol, Zhenyu Tan, and Rahul Mazumder. ICML (2020).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Learning Hierarchical Interactions at Scale: A Convex Optimization Approach&lt;/strong&gt;. 
+&lt;a href=&#34;http://proceedings.mlr.press/v108/hazimeh20a/hazimeh20a.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;. 
+&lt;a href=&#34;https://github.com/hazimehh/hierScale&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;.&lt;br&gt;
+    Hussein Hazimeh and Rahul Mazumder. AISTATS (2020).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Axiomatic Analysis of Smoothing Methods in Language Models for Pseudo-Relevance Feedback&lt;/strong&gt;. 
+&lt;a href=&#34;https://dl.acm.org/citation.cfm?id=2809471&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;br&gt;
+    Hussein Hazimeh and ChengXiang Zhai. SIGIR ICTIR (2015).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>http://hazimehh.github.io/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://hazimehh.github.io/software/</guid>
+      <description>&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
+&lt;p&gt;I am the main developer of the following software toolkits for interpretable machine learning:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;L0Learn&lt;/strong&gt;: Fast, approximate algorithms for L0-regularized learning. 
+&lt;a href=&#34;https://github.com/hazimehh/L0Learn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;. 
+&lt;a href=&#34;https://cran.r-project.org/web/packages/L0Learn/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRAN&lt;/a&gt;. 
+&lt;a href=&#34;https://cran.r-project.org/web/packages/L0Learn/vignettes/L0Learn-vignette.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vignette&lt;/a&gt;.&lt;br&gt;
+    Handles sparse regression and classification problems, in times comparable to the fast Lasso solvers.&lt;br&gt;
+    Downloaded over 38,000 times.&lt;br&gt;
+    Based on &amp;ldquo;Fast Best Subset Selection: Coordinate Descent and Local Combinatorial Optimization Algorithms&amp;rdquo;. 
+&lt;a href=&#34;https://pubsonline.informs.org/doi/10.1287/opre.2019.1919&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.
+&lt;br/&gt;&lt;br/&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;L0BnB&lt;/strong&gt;: A specialized exact algorithm for L0-regularized regression, based on branch-and-bound. 
+&lt;a href=&#34;https://github.com/alisaab/l0bnb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;. 
+&lt;a href=&#34;https://pypi.org/project/l0bnb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyPI&lt;/a&gt;.&lt;br&gt;
+    Can solve instances with 10^7 features to optimality, in minutes to hours (assuming highly sparse solutions).&lt;br&gt;
+    Downloaded over 9,000 times.&lt;br&gt;
+    Based on &amp;ldquo;Sparse Regression at Scale: Branch-and-Bound rooted in First-Order Optimization&amp;rdquo;. 
+&lt;a href=&#34;https://arxiv.org/abs/2004.06152&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.
+&lt;br/&gt;&lt;br/&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;hierScale&lt;/strong&gt;: A scalable convex optimization algorithm for regression with pairwise interactions. 
+&lt;a href=&#34;https://github.com/hazimehh/hierScale&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;. 
+&lt;a href=&#34;https://pypi.org/project/hierScale/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyPI&lt;/a&gt;.&lt;br&gt;
+    Based on &amp;ldquo;Learning Hierarchical Interactions at Scale: A Convex Optimization Approach&amp;rdquo;. 
+&lt;a href=&#34;http://proceedings.mlr.press/v108/hazimeh20a/hazimeh20a.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.
+&lt;br/&gt;&lt;br/&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tree Ensemble Layer&lt;/strong&gt;: A layer of differentiable trees that can be used within neural networks. 
+&lt;a href=&#34;https://github.com/google-research/google-research/tree/master/tf_trees&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;.&lt;br&gt;
+    The layer can speed up and enhance interpretability in neural networks.&lt;br&gt;
+    Joint work with Google collaborators.&lt;br&gt;
+    Based on &amp;ldquo;The Tree Ensemble Layer: Differentiability meets Conditional Computation&amp;rdquo;. 
+&lt;a href=&#34;https://proceedings.icml.cc/static/paper_files/icml/2020/2974-Paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>http://hazimehh.github.io/talks/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://hazimehh.github.io/talks/talks/</guid>
+      <description>&lt;h2 id=&#34;recent-talks&#34;&gt;Recent Talks&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Sparse Regression at Scale&lt;/strong&gt;&lt;br&gt;
+    MIT, ORC Seminar, 2020. 
+&lt;a href=&#34;https://orc.mit.edu/sites/default/files/documents/ORCSeminarScheduleF20.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;br&gt;
+    Discrete Optimization Talks, 2020. 
+&lt;a href=&#34;https://www.youtube.com/watch?v=Q-sXN_mxXoY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;.&lt;br&gt;
+    INFORMS Annual Meeting, 2020. 
+&lt;a href=&#34;https://cattendee.abstractsonline.com/meeting/9022/Session/2943&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;.&lt;br&gt;
+    Bernoulli-IMS One World Symposium, 2020.&lt;br&gt;
+    Google Brain, 2020.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fast Best Subset Selection&lt;/strong&gt;&lt;br&gt;
+    INFORMS Annual Meeting (IOS Society Prize Session), 2020. 
+&lt;a href=&#34;https://cattendee.abstractsonline.com/meeting/9022/Session/3479&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;.&lt;br&gt;
+    Google Research, 2019.&lt;br&gt;
+    CMStatistics, 2017.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Smooth Routing in Neural Networks&lt;/strong&gt;&lt;br&gt;
+    Google Brain, 2020.&lt;br&gt;
+    Google PIRC Spotlight Talk, 2020.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Tree Ensemble Layer: Differentiability meets Conditional Computation&lt;/strong&gt;&lt;br&gt;
+    ICML, 2020. 
+&lt;a href=&#34;https://icml.cc/virtual/2020/poster/6268&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;.&lt;br&gt;
+    Google Research, 2019.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Learning Hierarchical Interactions at Scale&lt;/strong&gt;&lt;br&gt;
+    AISTATS, 2020. 
+&lt;a href=&#34;https://slideslive.com/38930116/learning-hierarchical-interactions-at-scale-a-convex-optimization-approach?ref=speaker-31212-latest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;.&lt;br&gt;
+    INFORMS Annual Meeting, 2019.&lt;br&gt;
+    Google Research, 2019.&lt;br&gt;
+    Rensselaer Polytechnic Institute (Applied Math Days), 2019.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
