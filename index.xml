@@ -134,41 +134,5 @@
 </description>
     </item>
     
-    <item>
-      <title>Talks</title>
-      <link>http://hazimehh.github.io/talks/talks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://hazimehh.github.io/talks/talks/</guid>
-      <description>&lt;h2 id=&#34;recent-talks&#34;&gt;Recent Talks&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Sparse Regression at Scale&lt;/strong&gt;&lt;br&gt;
-    MIT, ORC Seminar, 2020. 
-&lt;a href=&#34;https://orc.mit.edu/sites/default/files/documents/ORCSeminarScheduleF20.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;br&gt;
-    Discrete Optimization Talks, 2020. 
-&lt;a href=&#34;https://www.youtube.com/watch?v=Q-sXN_mxXoY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;.&lt;br&gt;
-    INFORMS Annual Meeting, 2020. 
-&lt;a href=&#34;https://cattendee.abstractsonline.com/meeting/9022/Session/2943&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;.&lt;br&gt;
-    Bernoulli-IMS One World Symposium, 2020.&lt;br&gt;
-    Google Brain, 2020.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Fast Best Subset Selection&lt;/strong&gt;&lt;br&gt;
-    INFORMS Annual Meeting (IOS Society Prize Session), 2020. 
-&lt;a href=&#34;https://cattendee.abstractsonline.com/meeting/9022/Session/3479&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;.&lt;br&gt;
-    Google Research, 2019.&lt;br&gt;
-    CMStatistics, 2017.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Smooth Routing in Neural Networks&lt;/strong&gt;&lt;br&gt;
-    Google Brain, 2020.&lt;br&gt;
-    Google PIRC Spotlight Talk, 2020.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The Tree Ensemble Layer: Differentiability meets Conditional Computation&lt;/strong&gt;&lt;br&gt;
-    ICML, 2020. 
-&lt;a href=&#34;https://icml.cc/virtual/2020/poster/6268&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;.&lt;br&gt;
-    Google Research, 2019.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Learning Hierarchical Interactions at Scale&lt;/strong&gt;&lt;br&gt;
-    AISTATS, 2020. 
-&lt;a href=&#34;https://slideslive.com/38930116/learning-hierarchical-interactions-at-scale-a-convex-optimization-approach?ref=speaker-31212-latest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;.&lt;br&gt;
-    INFORMS Annual Meeting, 2019.&lt;br&gt;
-    Google Research, 2019.&lt;br&gt;
-    Rensselaer Polytechnic Institute (Applied Math Days), 2019.&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
