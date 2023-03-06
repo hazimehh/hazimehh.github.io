@@ -58,7 +58,7 @@
       <description>&lt;h2 id=&#34;selected-publications&#34;&gt;Selected Publications&lt;/h2&gt;
 &lt;p&gt;** This page is outdated. Please see my 
 &lt;a href=&#34;https://scholar.google.com/citations?user=zPgtqfEAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google scholar&lt;/a&gt; page for a full list including recent work.**&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Grouped Variable Selection using Discrete Optimization&lt;/strong&gt;.
+&lt;p&gt;&lt;strong&gt;Grouped Variable Selection with Discrete Optimization: Computational and Statistical Perspectives&lt;/strong&gt;.
 &lt;a href=&#34;https://arxiv.org/abs/2104.07084&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;br&gt;
     Hussein Hazimeh, Rahul Mazumder, and Peter Radchenko. Annals of Statistics (2023+).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sparse Regression at Scale: Branch-and-Bound rooted in First-Order Optimization&lt;/strong&gt;. 
@@ -69,16 +69,25 @@
   &lt;i class=&#34;fas fa-fas fa-award  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Best Student Paper Award, MIT ORC.&lt;br&gt;
     
   &lt;i class=&#34;fas fa-fas fa-award  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Honorable Mention, INFORMS Computing Society.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Flexible Modeling and Multitask Learning using Differentiable Tree Ensembles&lt;/strong&gt;. 
+&lt;a href=&#34;https://arxiv.org/pdf/2205.09717.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;br&gt;
+    Shibal Ibrahim, Hussein Hazimeh, and Rahul Mazumder. SIGKDD (2022).&lt;br&gt;
+    
+  &lt;i class=&#34;fas fa-fas fa-award  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Best Student Paper Award, SIGKDD (2022).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dselect-k: Differentiable selection in the mixture of experts with applications to multi-task learning&lt;/strong&gt;. 
+&lt;a href=&#34;https://proceedings.neurips.cc/paper/2021/file/f5ac21cd0ef1b88e9848571aeb53551a-Paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;br&gt;
+    Hussein Hazimeh, Zhe Zhao, Aakanksha Chowdhery, Maheswaran Sathiamoorthy, Yihua Chen, Rahul Mazumder&lt;br&gt;
+    Lichan Hong, and Ed Chi. NeurIPS (2021).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Learning Sparse Classifiers: Continuous and Mixed Integer Optimization Perspectives&lt;/strong&gt;. 
+&lt;a href=&#34;https://arxiv.org/abs/2001.06471&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;. 
+&lt;a href=&#34;https://github.com/hazimehh/L0Learn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;.&lt;br&gt;
+    Antoine Dedieu, Hussein Hazimeh, and Rahul Mazumder. JMLR (2021).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Fast Best Subset Selection: Coordinate Descent and Local Combinatorial Optimization Algorithms&lt;/strong&gt;. 
 &lt;a href=&#34;https://pubsonline.informs.org/doi/10.1287/opre.2019.1919&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;. 
 &lt;a href=&#34;https://github.com/hazimehh/L0Learn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;.&lt;br&gt;
     Hussein Hazimeh and Rahul Mazumder. Operations Research (2020).&lt;br&gt;
     
   &lt;i class=&#34;fas fa-fas fa-award  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Young Researchers Prize (for an Outstanding Paper in Optimization), INFORMS Optimization Society.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Learning Sparse Classifiers: Continuous and Mixed Integer Optimization Perspectives&lt;/strong&gt;. 
-&lt;a href=&#34;https://arxiv.org/abs/2001.06471&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;. 
-&lt;a href=&#34;https://github.com/hazimehh/L0Learn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;.&lt;br&gt;
-    Antoine Dedieu, Hussein Hazimeh, and Rahul Mazumder. JMLR (2021, to appear)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;The Tree Ensemble Layer: Differentiability meets Conditional Computation&lt;/strong&gt;. 
 &lt;a href=&#34;https://proceedings.icml.cc/static/paper_files/icml/2020/2974-Paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;. 
 &lt;a href=&#34;https://github.com/google-research/google-research/tree/master/tf_trees&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;.&lt;br&gt;
