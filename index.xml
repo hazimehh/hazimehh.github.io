@@ -29,6 +29,10 @@
       <guid>http://hazimehh.github.io/awards/</guid>
       <description>&lt;h2 id=&#34;selected-awards&#34;&gt;Selected Awards&lt;/h2&gt;
 &lt;p&gt;
+  &lt;i class=&#34;fas fa-fas fa-award  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;strong&gt;Honorable Mention &amp;ndash; INFORMS ICS Prize (2023)&lt;/strong&gt;. 
+&lt;a href=&#34;https://www.informs.org/Recognizing-Excellence/Community-Prizes/INFORMS-Computing-Society/INFORMS-Computing-Society-Prize&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;br&gt;
+    Received for a body of work on sparse learning.&lt;/p&gt;
+&lt;p&gt;
   &lt;i class=&#34;fas fa-fas fa-award  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;strong&gt;Best Student Paper Award &amp;ndash; SIGKDD (2022)&lt;/strong&gt;. 
 &lt;a href=&#34;https://kdd.org/awards/view/2022-sigkdd-best-paper-award-winners&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;br&gt;
     Received as an advisor to the student first author.&lt;br&gt;
@@ -55,12 +59,39 @@
       <link>http://hazimehh.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://hazimehh.github.io/publications/</guid>
-      <description>&lt;h2 id=&#34;selected-publications&#34;&gt;Selected Publications&lt;/h2&gt;
-&lt;p&gt;** This page is outdated. Please see my 
+      <description>&lt;h2 id=&#34;featured-publications&#34;&gt;Featured Publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Fast as CHITA: Neural Network Pruning with Combinatorial Optimization&lt;/strong&gt;. 
+&lt;a href=&#34;https://arxiv.org/abs/2302.14623&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;. 
+&lt;a href=&#34;https://blog.research.google/2023/08/neural-network-pruning-with.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blog&lt;/a&gt;.&lt;br&gt;
+    Riade Benbaki, Wenyu Chen, Xiang Meng, Hussein Hazimeh, Natalia Ponomareva, Zhe Zhao, Rahul Mazumder. ICML (2023).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIuxL23IilgYpOEWtnP9B4zbiPnuV5NUML47JP0q1idyLLmZUqRlHrxx77iFIinFWUXMekNhKSltLlZvzBSTaqsYmbithvXGlvggyaAZrtb4mg9oiYMWArjvf_lj7T9IbY1Ae4-wijzOZzTazsxWImdGRgLSyAJEc5WQWHvylSwcHQJWX8gXfEk70l8iEs/s1600/image5.gif&#34; alt=&#34;neural_network_pruning&#34; width=&#34;600&#34;/&gt;
+  &lt;figcaption&gt;Pruning as a best subset selection problem.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;How to DP-fy ML: A Practical Guide to Machine Learning with Differential Privacy&lt;/strong&gt;. 
+&lt;a href=&#34;https://arxiv.org/abs/2303.00654&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;. 
+&lt;a href=&#34;https://blog.research.google/2023/05/making-ml-models-differentially-private.html?m=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blog&lt;/a&gt;.&lt;br&gt;
+    Natalia Ponomareva, Hussein Hazimeh, Alex Kurakin, Zheng Xu, Carson Denison, H. Brendan McMahan, Sergei Vassilvitskii, Steve Chien, Abhradeep Thakurta. JAIR (2023).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQqxkabmVXlVWrPH4rEop_ZFxMo_DtkzllZq3JIpstNNxAxutrZe-kS24Vqi1b2r4BvF1zEP3hpZGEvoExnJHKqgnREGcgTJWSjmfglItZAa_ZHLrsTTRvLBxY4z6nmeJoT1ptEnM9dkM82Iq8_FCA2lmUZclzmLsqfDZ2czAcHQW_8PnabZvy1ZYBXw/s1439/DP-ML.gif&#34; alt=&#34;differential_privacy&#34; width=&#34;600&#34;/&gt;
+  &lt;figcaption&gt;DP-SGD for training differentially private neural nets.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id=&#34;selected-publications&#34;&gt;Selected Publications&lt;/h2&gt;
+&lt;p&gt;** The list below does not include all publications and may be outdated. Please see my 
 &lt;a href=&#34;https://scholar.google.com/citations?user=zPgtqfEAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google scholar&lt;/a&gt; page for a full list including recent work.**&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Benchmarking Robustness to Adversarial Image Obfuscations&lt;/strong&gt;.
+&lt;a href=&#34;https://browse.arxiv.org/pdf/2301.12993.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;br&gt;
+    Florian Stimberg, Ayan Chakrabarti, Chun-Ta Lu, Hussein Hazimeh, Otilia Stretcu, Wei Qiao, Yintao Liu, Merve Kaya, Cyrus Rashtchian, Ariel Fuxman, Mehmet Tek, Sven Gowal. NeurIPS (2023).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;L0learn: A scalable package for sparse learning using l0 regularization&lt;/strong&gt;.
+&lt;a href=&#34;https://www.jmlr.org/papers/volume24/22-0189/22-0189.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;br&gt;
+    Hussein Hazimeh, Rahul Mazumder, and Tim Nonet. JMLR (2023).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Grouped Variable Selection with Discrete Optimization: Computational and Statistical Perspectives&lt;/strong&gt;.
 &lt;a href=&#34;https://arxiv.org/abs/2104.07084&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;br&gt;
-    Hussein Hazimeh, Rahul Mazumder, and Peter Radchenko. Annals of Statistics (2023+).&lt;/p&gt;
+    Hussein Hazimeh, Rahul Mazumder, and Peter Radchenko. Annals of Statistics (2023).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sparse Regression at Scale: Branch-and-Bound rooted in First-Order Optimization&lt;/strong&gt;. 
 &lt;a href=&#34;https://arxiv.org/abs/2004.06152&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;. 
 &lt;a href=&#34;https://github.com/alisaab/l0bnb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;.&lt;br&gt;
