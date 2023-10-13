@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>https://hazimehh.github.io/</link>
-      <atom:link href="https://hazimehh.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description></description>
+    <title>Hussein Hazimeh</title>
+    <link>https://www.hazimeh.com/</link>
+      <atom:link href="https://www.hazimeh.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hussein Hazimeh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://hazimehh.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title></title>
-      <link>https://hazimehh.github.io/</link>
+      <url>https://www.hazimeh.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Hussein Hazimeh</title>
+      <link>https://www.hazimeh.com/</link>
     </image>
     
     <item>
       <title>Award Citation</title>
-      <link>https://hazimehh.github.io/researcher-award/</link>
+      <link>https://www.hazimeh.com/researcher-award/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hazimehh.github.io/researcher-award/</guid>
+      <guid>https://www.hazimeh.com/researcher-award/</guid>
       <description>&lt;h2 id=&#34;citation-of-the-informs-optimization-society-young-researchers-prize&#34;&gt;Citation of the INFORMS Optimization Society Young Researchers Prize&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Hussein Hazimeh and Rahul Mazumder are awarded the 2020 INFORMS Optimization Society Prize for Young Researchers for their paper, &amp;ldquo;Fast Best Subset Selection: Coordinate Descent and Local Combinatorial Optimization Algorithms,&amp;rdquo; Operations Research, to appear. The paper presents a novel algorithm for the Best Subset Selection problem (BSS), which is ordinary least-squares linear regression but with a penalty (or constraint) on the number of non-zero coefficients in the model, which induces sparsity. BSS is a fundamental problem in high-dimensional statistics, where sparse solutions with good explanatory power are crucial for practical use. Yet, it is NP-hard and, therefore, has been labeled computationally intractable and replaced by popular formulations such as LASSO and ridge regression. The authors combine tools and techniques from high-dimensional statistics, continuous optimization, integer programming, and open-source software development to provide the community with a highly effective heuristic for BSS, one which has strong theoretical underpinnings, outperforms existing state-of-the-art codes in many cases, and is easy to generalize to other settings.&lt;/em&gt;&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Awards</title>
-      <link>https://hazimehh.github.io/awards/</link>
+      <link>https://www.hazimeh.com/awards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hazimehh.github.io/awards/</guid>
+      <guid>https://www.hazimeh.com/awards/</guid>
       <description>&lt;h2 id=&#34;selected-awards&#34;&gt;Selected Awards&lt;/h2&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-fas fa-award  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;strong&gt;Honorable Mention &amp;ndash; INFORMS ICS Prize (2023)&lt;/strong&gt;. 
@@ -56,9 +56,9 @@
     
     <item>
       <title>Publications</title>
-      <link>https://hazimehh.github.io/publications/</link>
+      <link>https://www.hazimeh.com/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hazimehh.github.io/publications/</guid>
+      <guid>https://www.hazimeh.com/publications/</guid>
       <description>&lt;h2 id=&#34;featured-publications&#34;&gt;Featured Publications&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Fast as CHITA: Neural Network Pruning with Combinatorial Optimization&lt;/strong&gt;. 
@@ -135,9 +135,9 @@
     
     <item>
       <title>Software</title>
-      <link>https://hazimehh.github.io/software/</link>
+      <link>https://www.hazimeh.com/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hazimehh.github.io/software/</guid>
+      <guid>https://www.hazimeh.com/software/</guid>
       <description>&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
 &lt;p&gt;I am the main developer of the following software toolkits for interpretable machine learning:&lt;/p&gt;
 &lt;ol&gt;
